@@ -1,6 +1,6 @@
 # Topic: Introduction to n8n and Azure OpenAI service
 
-## AI Agent
+## Artificial Intelligence Agent
 Options > System Message 
 
 ```sh
