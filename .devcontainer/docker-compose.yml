@@ -9,7 +9,7 @@ services:
       - TZ=Asia/Bangkok
       - N8N_RUNNERS_ENABLED=true
       - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=false
-      - N8N_EDITOR_BASE_URL=https://super-duper-goldfish-pjj76jg7w7qrc79x9-5678.app.github.dev/rest/oauth2-credential/callback
-      - WEBHOOK_URL=https://super-duper-goldfish-pjj76jg7w7qrc79x9-5678.app.github.dev/rest/oauth2-credential/callback
+      - N8N_EDITOR_BASE_URL=https://super-duper-goldfish-pjj76jg7w7qrc79x9-5678.app.github.dev/
+      - WEBHOOK_URL=https://super-duper-goldfish-pjj76jg7w7qrc79x9-5678.app.github.dev/
     volumes:
       - ../data:/home/node/.n8n # Service uses volume named 'data'
