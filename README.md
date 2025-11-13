@@ -2,11 +2,6 @@
 
 # Event: styava.dev
 
-## Instructions
-
-- Folk this Github repo
-- Run it on your GitHub codespace
-
 ## AI Agent
 Options > System Message 
 
