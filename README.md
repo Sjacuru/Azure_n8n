@@ -1,7 +1,5 @@
 # Topic: Introduction to n8n and Azure OpenAI service
 
-# Event: styava.dev
-
 ## AI Agent
 Options > System Message 
 
